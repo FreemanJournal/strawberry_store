@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/strawberry_store/static/css/main.df3e21d0.chunk.css",
+    "main.js": "/strawberry_store/static/js/main.fc4370b2.chunk.js",
+    "main.js.map": "/strawberry_store/static/js/main.fc4370b2.chunk.js.map",
+    "runtime-main.js": "/strawberry_store/static/js/runtime-main.76b83b06.js",
+    "runtime-main.js.map": "/strawberry_store/static/js/runtime-main.76b83b06.js.map",
+    "static/js/2.87a82094.chunk.js": "/strawberry_store/static/js/2.87a82094.chunk.js",
+    "static/js/2.87a82094.chunk.js.map": "/strawberry_store/static/js/2.87a82094.chunk.js.map",
+    "static/js/3.1719646f.chunk.js": "/strawberry_store/static/js/3.1719646f.chunk.js",
+    "static/js/3.1719646f.chunk.js.map": "/strawberry_store/static/js/3.1719646f.chunk.js.map",
+    "index.html": "/strawberry_store/index.html",
+    "static/css/main.df3e21d0.chunk.css.map": "/strawberry_store/static/css/main.df3e21d0.chunk.css.map",
+    "static/js/2.87a82094.chunk.js.LICENSE.txt": "/strawberry_store/static/js/2.87a82094.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.76b83b06.js",
+    "static/js/2.87a82094.chunk.js",
+    "static/css/main.df3e21d0.chunk.css",
+    "static/js/main.fc4370b2.chunk.js"
+  ]
+}
