@@ -1,0 +1,32 @@
+*{
+  box-sizing: border-box;
+}
+$primaryColor:#2f4858;
+button {
+  padding: 0.5em 2em;
+  margin: 1em 1em;
+  border: none;
+  border-radius: 3px;
+  font-size: 2ch;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bold;
+  background:#2f4858d8;
+  color: #fcfcfc;
+  cursor: pointer;
+  box-shadow: 0 4px 6px -1px #0000001a, 0 2px 4px -2px #0000001a;
+
+  &:hover {
+    background: $primaryColor;
+    transition: background 300ms ease;
+  }
+  &:focus{
+    background: $primaryColor;
+  }
+}
+
+.poemSection{
+  padding: 5em;
+  font-weight: bold;
+  color: #2f4858;
+  text-align: justify;
+}
