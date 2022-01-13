@@ -65,7 +65,7 @@ export default function OrderInfo({ onChangeHandler, index, deleteOrder, item })
                 <div className="customer_field">
                     
                     <span className='customer_input'>
-                        <MdIcons.MdDelete className='delete_icon' size="4ch" onClick={() => deleteOrder(index)} />
+                        <MdIcons.MdDelete className='delete_icon' size="3ch" onClick={() => deleteOrder(index)} />
                     </span>
                 </div>
 

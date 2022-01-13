@@ -88,6 +88,10 @@ input[type='number'] {
   margin: 1em auto;
 }
 
+.customerOrder section {
+  width: 90vw;
+}
+
 .customerOrder .addNewForm {
   padding: 0 1em;
   display: -webkit-box;
