@@ -1,5 +1,5 @@
-import React from 'react'
-import { Document, Font, Image, Line, Page, StyleSheet, Text, View } from "@react-pdf/renderer"
+import { Document, Image, Page, StyleSheet, Text, View } from "@react-pdf/renderer";
+import React from 'react';
 import logo from "./images/logo.png";
 export default function ReceiptPDF({ productData,customerName }) {
 
